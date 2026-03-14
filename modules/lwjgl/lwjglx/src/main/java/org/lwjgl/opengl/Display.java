@@ -664,8 +664,7 @@ public class Display {
 
             @Override
             public float getPixelScaleFactor() {
-                // TODO Auto-generated method stub
-                return 0;
+                return 1f;
             }
 
             @Override
